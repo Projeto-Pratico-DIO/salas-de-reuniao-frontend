@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
 
+## Projeto desenvolvido durante uma live code
+
+O Objetivo consistia em entender os conceitos básicos do funcionamento de um cliente Angular
+
+![alt text](https://github.com/DaniloSoares0/salas-de-reuniao-frontend/src/assets/img/principal.PNG)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
