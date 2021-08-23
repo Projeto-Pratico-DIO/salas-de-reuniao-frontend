@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Projeto desenvolvido durante uma live code
 
-O Objetivo consistia em entender os conceitos básicos do funcionamento de um cliente Angular
+O objetivo da live era transmitir os conceitos básicos do funcionamento de um cliente Angular
 
-![alt text](https://github.com/DaniloSoares0/salas-de-reuniao-frontend/src/assets/img/principal.PNG)
+![alt text](https://github.com/Projeto-Pratico-DIO/salas-de-reuniao-frontend/blob/master/src/assets/img/principal.PNG)
 
 
 ## Development server
